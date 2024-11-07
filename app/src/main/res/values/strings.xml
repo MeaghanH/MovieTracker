@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Tracker</string>
+    <string name="movie_field_label">Movie Name</string>
+    <string name="add_button_text">Add to Movie List</string>
+    <string name="welcome_instructions_text">Use this app to keep track of movies you have seen.</string>
+    <string name="welcome">Welcome!</string>
+    <string name="enter_movies_button_text">Enter Movies</string>
+    <string name="home_button_text">Home</string>
+    <string name="recommend_movies_button_text">Movie Recommendations</string>
+    <string name="recs_to_choose_from_text">You have %d movies to choose from</string>
+    <string name="make_a_rec_button">Make a Recommendation</string>
+    <string name="recommended_movie_text">Recommended Movie:</string>
+    <string name="recommended_movie_name_text">Nothing to recommend yet!</string>
+</resources>
