@@ -153,6 +153,7 @@ fun MovieRecScreen(
         }
 
     }
+
 }
 
 fun shareMovie(context: Context, recommendedMovie : String) {
